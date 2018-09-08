@@ -44,9 +44,7 @@ As a soul filled with no colour, you wander the universe to fill yourself with c
 
 <!-- FEATURES -->
 
-<p align="center">
-  <img src="./very-cool-stuff/doggo.gif">
-</p>
+![relaxdemo](https://user-images.githubusercontent.com/10361542/45258492-614c5600-b36d-11e8-918b-e3df4c59005a.gif)
 
 <!-- QUICK INSTALLATION -->
 
