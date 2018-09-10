@@ -1,10 +1,10 @@
 <!-- HEADING -->
 
 <p align="center">
-  <img src="./very-cool-stuff/avatar.png" width="60">
+  <img src="./avatar.png" width="60">
 </p>
 <h1 align="center">️
-  readme-format
+  relax
 </h1>
 
 <!-- DESCRIPTION -->
