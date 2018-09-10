@@ -1,17 +1,3 @@
-# Relax
-> Just relax.
-
-As a soul filled with no colour, you wander the universe to fill yourself with colour hoping to find a sense of happiness.
-
-## Instructions
-
-- Use mouse to navigate the menu.
-- Further instructions in-game.
-
-## Creator(s)
-
-- AC De Leon.
-
 <!-- HEADING -->
 
 <p align="center">
@@ -46,9 +32,14 @@ As a soul filled with no colour, you wander the universe to fill yourself with c
 
 ![relaxdemo](https://user-images.githubusercontent.com/10361542/45258492-614c5600-b36d-11e8-918b-e3df4c59005a.gif)
 
+As a soul filled with no colour, you wander the universe to fill yourself with colour hoping to find a sense of happiness.
+
 <!-- QUICK INSTALLATION -->
 
 ## <span role="img" aria-label="Sparkles">✨</span> Quick Installation
+
+- Use mouse to navigate the menu.
+- Further instructions in-game.
 
 <!-- IN-DEPTH INSTALLATION -->
 
