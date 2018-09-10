@@ -10,11 +10,11 @@
 <!-- DESCRIPTION -->
 
 <h3 align="center">
-  <span role="img" aria-label="Sparkles">✨</span>
+  <span role="img" aria-label="Wind Face">🌬️</span>
 </h3>
 <p align="center">
-  <strong>"What is it" application.</strong><br>
-  Some applications that uses some stuff.
+  <strong>Calm viewing video game.</strong><br>
+  Created with <a href="https://unity3d.com/" target="_blank">Unity</a> to showcase <a href="https://en.wikipedia.org/wiki/Procedural_generation" target="_blank">procedural generation</a>.
 </p>
 
 <!-- INFORMATION (Shields:IO) -->
@@ -33,6 +33,8 @@
 ![relaxdemo](https://user-images.githubusercontent.com/10361542/45258492-614c5600-b36d-11e8-918b-e3df4c59005a.gif)
 
 As a soul filled with no colour, you wander the universe to fill yourself with colour hoping to find a sense of happiness.
+
+Usually video games have objectives to complete, but I just wanted to create a video game where you can just turn it on and be a world viewer.
 
 <!-- QUICK INSTALLATION -->
 
