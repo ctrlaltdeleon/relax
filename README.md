@@ -3,9 +3,7 @@
 <p align="center">
   <img src="./avatar.png" width="60">
 </p>
-<h1 align="center">️
-  relax
-</h1>
+<h1 align="center">️relax</h1>
 
 <!-- DESCRIPTION -->
 
@@ -46,7 +44,7 @@
 
 Go to <a href="https://acfromspace.itch.io/relax" target="_blank">https://acfromspace.itch.io/relax</a> and download the `.exe` file!
 
-<!-- IN-DEPTH INSTALLATION -->
+<!-- IN-DEPTH GUIDE -->
 
 ## <span role="img" aria-label="Video Game">🎮</span> Controls
 
