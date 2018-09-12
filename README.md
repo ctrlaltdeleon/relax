@@ -50,8 +50,10 @@ Go to <a href="https://acfromspace.itch.io/relax" target="_blank">https://acfrom
 
 ## <span role="img" aria-label="Video Game">🎮</span> Controls
 
-- Use mouse to navigate the menu.
-- Further instructions in-game.
+```txt
+Use mouse to navigate the menu.
+Further instructions in-game.
+```
 
 <!-- WHAT'S INSIDE? -->
 
@@ -59,15 +61,26 @@ Go to <a href="https://acfromspace.itch.io/relax" target="_blank">https://acfrom
 
 A quick look at the top-level files and directories you'll see in this project.
 
-    .
-    ├── Development Area/
-    ├── Game Documentation/
-    ├── Game Executable/
-    ├── Game Screenshots/
-    ├── .gitignore
-    ├── avatar.png
-    ├── LICENSE   
-    └── README.md
+```
+  .
+1 ├── Development Area/
+2 ├── Game Documentation/
+3 ├── Game Executable/
+4 ├── Game Screenshots/
+5 ├── .gitignore
+6 ├── avatar.png
+7 ├── LICENSE   
+8 └── README.md
+```
+
+1.  **`Development Area/`**: Unity project files.
+2.  **`Game Documentation/`**: Game Design Document (GDD) and Technical Design Document (TDD).
+3.  **`Game Executable/`**: The droids you're looking for are here.
+4.  **`Game Screenshots/`**: Screenshots that showcase the video game.
+5.  **`.gitignore`**: This file tells `.git` which files it should not track nor maintain a version history for. For instance, you shouldn't let anyone get your `.env` files. (These usually contain your API keys)
+6.  **`avatar.png`**: Image used in the README.md.
+7.  **`LICENSE`**: An open source license that protects contributors and users depending on the license chosen.
+8.  **`README.md`**: A markdown file containing useful reference information about your project. The file you're reading right now!
 
 <!-- LICENSE -->
 
