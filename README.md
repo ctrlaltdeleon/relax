@@ -7,9 +7,9 @@
 
 <!-- DESCRIPTION -->
 
-<h3 align="center">
+<h1 align="center">
   <span role="img" aria-label="Wind Face">🌬️</span>
-</h3>
+</h1>
 <p align="center">
   <strong>Calm viewing video game.</strong><br>
   Created with <a href="https://unity3d.com/" target="_blank">Unity</a> to showcase <a href="https://en.wikipedia.org/wiki/Procedural_generation" target="_blank">procedural generation</a>.
