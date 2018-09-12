@@ -30,7 +30,7 @@
 
 ![relaxdemo](https://user-images.githubusercontent.com/10361542/45258492-614c5600-b36d-11e8-918b-e3df4c59005a.gif)
 
-<a href="https://acfromspace.itch.io/relax" target="_blank"><i>relax</i></a> is a video game with the following features:
+[*relax*](https://acfromspace.itch.io/relax) is a video game with the following features:
 
 - **Premise.** As a soul filled with no colour, you wander the universe to fill yourself with colour hoping to find a sense of happiness.
 
