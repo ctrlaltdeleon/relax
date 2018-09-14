@@ -11,8 +11,8 @@
   <span role="img" aria-label="Wind Face">🌬️</span>
 </h3>
 <p align="center">
-  <strong>Calm viewing video game.</strong><br>
-  Created with <a href="https://unity3d.com/" target="_blank">Unity</a> to showcase <a href="https://en.wikipedia.org/wiki/Procedural_generation" target="_blank">procedural generation</a>.
+  <strong>Just relax.</strong><br>
+  Created with <a href="https://unity3d.com/" target="_blank">Unity</a> to showcase calm vaporwave viewing and <a href="https://en.wikipedia.org/wiki/Procedural_generation" target="_blank">procedural generation</a>.
 </p>
 
 <!-- INFORMATION (Shields:IO) -->
