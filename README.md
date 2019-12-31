@@ -15,7 +15,7 @@
   Created with <a href="https://unity3d.com/" target="_blank">Unity</a> to showcase calm vaporwave viewing and <a href="https://en.wikipedia.org/wiki/Procedural_generation" target="_blank">procedural generation</a>.
 </p>
 
-<!-- INFORMATION (Shields:IO) -->
+<!-- BADGES -->
 
 <p align="center">
     <a href="https://github.com/acfromspace/relax/blob/master/LICENSE">
