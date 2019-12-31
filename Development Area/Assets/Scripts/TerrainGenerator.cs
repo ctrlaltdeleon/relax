@@ -2,10 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-/* Author: Andrew De Leon
- * */
-
-// Use of Perlin Noise to create a procedurally generating terrain
+// Use of Perlin Noise to create a procedurally generating terrain.
 public class TerrainGenerator : MonoBehaviour {
 
     public int depth = 20;
