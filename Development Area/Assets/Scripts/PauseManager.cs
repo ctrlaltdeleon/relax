@@ -3,9 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-/* Author: Andrew De Leon
- * */
-
 public class PauseManager : MonoBehaviour {
 
     public static bool GameIsPaused = false;
