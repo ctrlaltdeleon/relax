@@ -2,12 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-/* Author: Andrew De Leon
- * */
-
 [RequireComponent(typeof(MeshFilter), typeof(MeshRenderer))]
 
-// Use of procedurally generated meshes
+// Use of procedurally generated meshes.
 public class Grid : MonoBehaviour {
 
     public int xSize, ySize;
