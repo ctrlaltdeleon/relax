@@ -4,9 +4,6 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-/* Author: Andrew De Leon
- * */
-
 public class MenuManager : MonoBehaviour {
     
     public void PlayGame ()
