@@ -27,15 +27,17 @@
 
 <!-- FEATURES -->
 
-![relaxdemo](https://user-images.githubusercontent.com/10361542/45258492-614c5600-b36d-11e8-918b-e3df4c59005a.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10361542/45258492-614c5600-b36d-11e8-918b-e3df4c59005a.gif">
+</p>
 
-[*relax*](https://acfromspace.itch.io/relax) is a video game with the following features:
+[_relax_](https://acfromspace.itch.io/relax) is a video game with the following features:
 
 - **Premise.** As a soul filled with no colour, you wander the universe to fill yourself with colour hoping to find a sense of happiness.
 
 - **Design Idea.** Usually video games have objectives to complete, but I just wanted to create a video game where you can just turn it on and be a world viewer.
 
-- **Future endeavors.** How I envisioned the game was to start off with a character of grey hues. Eventually the character would set off around the world, solve puzzles, and open up the colours hidden away to share with everyone. I would love to include backtracking where the worlds are in greyscale, but as you unlock colours, the player realizes there is more to previous areas as the colours show other puzzles.
+- **Potential endeavors.** How I envisioned the game was to start off with a character of grey hues. Eventually the character would set off around the world, solve puzzles, and open up the colours hidden away to share with everyone. I would love to include backtracking where the worlds are in greyscale, but as you unlock colours, the player realizes there is more to previous areas as the colours show other puzzles.
 
 <!-- QUICK INSTALLATION -->
 
@@ -47,7 +49,7 @@ Go to <a href="https://acfromspace.itch.io/relax" target="_blank">https://acfrom
 
 ## <span role="img" aria-label="Video Game">🎮</span> Controls
 
-```txt
+```
 Use mouse to navigate the menu.
 Further instructions in-game.
 ```
