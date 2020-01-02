@@ -35,7 +35,7 @@
 
 - **Premise.** As a soul filled with no colour, you wander the universe to fill yourself with colour hoping to find a sense of happiness.
 
-- **Design Idea.** Usually video games have objectives to complete, but I just wanted to create a video game where you can just turn it on and be a world viewer.
+- **Design.** Usually video games have objectives to complete, but I just wanted to create a video game where you can just turn it on and be a world viewer.
 
 - **Potential endeavors.** How I envisioned the game was to start off with a character of grey hues. Eventually the character would set off around the world, solve puzzles, and open up the colours hidden away to share with everyone. I would love to include backtracking where the worlds are in greyscale, but as you unlock colours, the player realizes there is more to previous areas as the colours show other puzzles.
 
