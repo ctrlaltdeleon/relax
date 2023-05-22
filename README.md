@@ -15,7 +15,7 @@
 <!-- BADGES -->
 
 <p align="center">
-    <a href="https://github.com/acfromspace/relax/blob/master/LICENSE">
+    <a href="https://github.com/ctrlaltdeleon/relax/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/mashape/apistatus.svg"
             alt="License: MIT"></a>
     <a href="https://www.repostatus.org/#unsupported">
@@ -28,7 +28,7 @@
   <img src="https://user-images.githubusercontent.com/10361542/45258492-614c5600-b36d-11e8-918b-e3df4c59005a.gif">
 </p>
 
-[_relax_](https://acfromspace.itch.io/relax) is a video game with the following features:
+[_relax_](https://ctrlaltdeleon.itch.io/relax) is a video game with the following features:
 
 - **Premise.** As a soul filled with no colour, you wander the universe to fill yourself with colour hoping to find a sense of happiness.
 
@@ -40,7 +40,7 @@
 
 ## <span role="img" aria-label="Sparkles">✨</span> Quick Installation
 
-Go to <a href="https://acfromspace.itch.io/relax" target="_blank">https://acfromspace.itch.io/relax</a> and download the `.exe` file!
+Go to <a href="https://ctrlaltdeleon.itch.io/relax" target="_blank">https://ctrlaltdeleon.itch.io/relax</a> and download the `.exe` file!
 
 <!-- IN-DEPTH GUIDE -->
 
